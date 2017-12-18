@@ -21,5 +21,11 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.5.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.9.2"
+  },
+  "prettier": {
+    "singleQuote": true
   }
 }
