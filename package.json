@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-mango",
+  "version": "1.0.0",
+  "description": "eslint configuration for mango chutney",
+  "main": "index.js",
+  "repository": "git@github.com:mango-chutney/eslint-config-mango.git",
+  "author": "jasondibenedetto <jason.dibenedetto6@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.13.1"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.0.3",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-flowtype": "^2.40.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
