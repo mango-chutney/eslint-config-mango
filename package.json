@@ -26,6 +26,7 @@
     "prettier": "^1.10.2"
   },
   "prettier": {
-    "singleQuote": true
+    "singleQuote": true,
+    "trailingComma": "none"
   }
 }
