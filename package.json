@@ -11,19 +11,19 @@
     "eslintconfig"
   ],
   "peerDependencies": {
-    "eslint": "^4.19.1 || ^5.0.1"
+    "eslint": "^4.19.1 || ^5.3.0"
   },
   "dependencies": {
     "babel-eslint": "^8.2.6",
-    "eslint-config-airbnb": "^17.0.0",
-    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.0.1",
     "eslint-plugin-flowtype": "^2.50.0",
-    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-react": "^7.10.0"
+    "eslint-plugin-react": "^7.11.0"
   },
   "devDependencies": {
-    "prettier": "^1.13.7"
+    "prettier": "^1.14.2"
   },
   "prettier": {
     "singleQuote": true,
