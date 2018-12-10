@@ -33,8 +33,5 @@
   "scripts": {
     "run-prettier": "./scripts/run-prettier.sh",
     "lint": "yarn run run-prettier"
-  },
-  "release": {
-    "ci": false
   }
 }
