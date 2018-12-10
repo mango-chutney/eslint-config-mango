@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mango",
-  "version": "1.0.3",
+  "version": "0.0.0-semantically-released",
   "description": "eslint configuration for mango chutney",
   "main": "index.js",
   "repository": "git@github.com:mango-chutney/eslint-config-mango.git",
