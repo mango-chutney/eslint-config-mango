@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mango",
-  "version": "1.0.2",
+  "version": "0.0.0-semantically-released",
   "description": "eslint configuration for mango chutney",
   "main": "index.js",
   "repository": "git@github.com:mango-chutney/eslint-config-mango.git",
@@ -23,7 +23,8 @@
     "eslint-plugin-react": "^7.11.1"
   },
   "devDependencies": {
-    "prettier": "1.14.3"
+    "prettier": "1.14.3",
+    "semantic-release": "^15.12.4"
   },
   "prettier": {
     "singleQuote": true,
@@ -32,5 +33,8 @@
   "scripts": {
     "run-prettier": "./scripts/run-prettier.sh",
     "lint": "yarn run run-prettier"
+  },
+  "release": {
+    "ci": false
   }
 }
